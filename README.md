@@ -1,3 +1,2 @@
-Demo edition.
-The record for knowledge.
+Demo edition.The record for knowledge.
 ====
